@@ -1,0 +1,767 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"html	html"
+			],
+			[
+				"for",
+				"formated"
+			],
+			[
+				"va",
+				"val"
+			],
+			[
+				"el",
+				"element"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"la",
+				"lastChar"
+			],
+			[
+				"t",
+				"tquery"
+			],
+			[
+				"a",
+				"alert"
+			],
+			[
+				"j",
+				"json"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"pa",
+				"params"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"se",
+				"search_length"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"ty",
+				"typedText"
+			],
+			[
+				"hash",
+				"hashtag"
+			],
+			[
+				"win",
+				"wines_url"
+			],
+			[
+				"fin",
+				"finishH"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"wi",
+				"wine"
+			],
+			[
+				"sea",
+				"search"
+			],
+			[
+				"w",
+				"w	attr_writer .."
+			],
+			[
+				"sa",
+				"searchash"
+			],
+			[
+				"en",
+				"end	end (ERB)"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"i",
+				"img	Tag"
+			],
+			[
+				"p",
+				"padding-left"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"pen",
+				"pencil"
+			],
+			[
+				"fi",
+				"fill"
+			],
+			[
+				"l",
+				"loop"
+			],
+			[
+				"gra",
+				"graps"
+			],
+			[
+				"he",
+				"helper_method"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"r",
+				"rgb"
+			],
+			[
+				"f",
+				"floor"
+			],
+			[
+				"s",
+				"shadowOffsetX"
+			],
+			[
+				"ge",
+				"getContent"
+			],
+			[
+				"m",
+				"meta	Tag"
+			],
+			[
+				"Ea",
+				"Email"
+			],
+			[
+				"form",
+				"form-horizontal"
+			],
+			[
+				"so",
+				"scores"
+			],
+			[
+				"b",
+				"begin	begin … rescue … end"
+			],
+			[
+				"th",
+				"th	Tag"
+			],
+			[
+				"wine",
+				"wines"
+			],
+			[
+				"link",
+				"link_to"
+			],
+			[
+				"E",
+				"Email"
+			],
+			[
+				"span",
+				"span2"
+			],
+			[
+				"run",
+				"run"
+			],
+			[
+				"di",
+				"distance"
+			],
+			[
+				"co",
+				"course_id"
+			],
+			[
+				"Co",
+				"Course"
+			],
+			[
+				"to",
+				"tooltip"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"map",
+				"maps"
+			],
+			[
+				"ma",
+				"map"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"g",
+				"google"
+			],
+			[
+				"Ge",
+				"GeocoderStatus"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"go",
+				"google"
+			],
+			[
+				"lat",
+				"LatLng"
+			],
+			[
+				"blu",
+				"bluet"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "config/database.yml",
+			"settings":
+			{
+				"buffer_size": 1458,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"projec",
+				"Project: Save As"
+			],
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"syntc",
+				"Set Syntax: CSS"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"h",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"Pach",
+				"Package Control: Add Channel"
+			],
+			[
+				"pach",
+				"Package Control: Add Channel"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 229.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/zirosas/Sites/Gohan/config/database.yml",
+		"/Users/zirosas/Sites/hitokoto/Gemfile",
+		"/Users/zirosas/Sites/hitokoto/Gemfile.lock",
+		"/Users/zirosas/Sites/Gohan/app/controllers/wines_controller.rb",
+		"/Users/zirosas/Sites/Gohan/app/models/wine.rb",
+		"/Users/zirosas/Desktop/error.html",
+		"/Users/zirosas/Sites/Gohan/app/views/layouts/application.html.erb",
+		"/Users/zirosas/Sites/Gohan/app/helpers/application_helper.rb",
+		"/Users/zirosas/Sites/Gohan/app/helpers/wines_helper.rb",
+		"/Users/zirosas/Sites/Gohan/config/application.rb",
+		"/Users/zirosas/Sites/Gohan/app/views/wines/_form.html.erb",
+		"/Users/zirosas/Sites/Gohan/app/assets/stylesheets/wines.css.scss",
+		"/Users/zirosas/Sites/Gohan/app/assets/javascripts/bootstrap-tagautocomplete.js",
+		"/Users/zirosas/Sites/Gohan/app/assets/javascripts/jquery-ui-1.10.3.custom.min.js",
+		"/Users/zirosas/Sites/Gohan/app/assets/javascripts/underscore-min.js",
+		"/Users/zirosas/Sites/Gohan/app/assets/javascripts/jquery.masonry.min.js",
+		"/Users/zirosas/Sites/Gohan/app/assets/stylesheets/scaffolds.css.scss",
+		"/Users/zirosas/Sites/Gohan/app/assets/stylesheets/jquery.mentionsInput.css",
+		"/Users/zirosas/Sites/Gohan/app/assets/stylesheets/application.css",
+		"/Users/zirosas/Sites/Gohan/app/views/wines/new.html.erb",
+		"/Users/zirosas/Sites/Gohan/public/data.json",
+		"/Users/zirosas/Sites/Gohan/app/assets/javascripts/jquery.mentionsInput.js",
+		"/Users/zirosas/Sites/Gohan/config/routes.rb",
+		"/Users/zirosas/Sites/Gohan/app/views/pages/settings.html.erb",
+		"/Users/zirosas/Sites/Gohan/app/controllers/pages_controller.rb",
+		"/Users/zirosas/Sites/Practice/index10.html",
+		"/Users/zirosas/Sites/Practice/practice.sublime-project",
+		"/Users/zirosas/Library/Application Support/Sublime Text 2/Settings/SideBarEnhancements.json",
+		"/Users/zirosas/Sites/Practice/test.css",
+		"/Users/zirosas/Sites/Practice/index.html",
+		"/Users/zirosas/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/zirosas/Sites/Gohan/public/_index.html",
+		"/Users/zirosas/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/Users/zirosas/Sites/Gohan/app/assets/javascripts/bootstrap.js.coffee",
+		"/Users/zirosas/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/zirosas/Sites/Gohan/app/assets/stylesheets/bootstrap_and_overrides.css.less",
+		"/Users/zirosas/Sites/Practice/myscript12.js",
+		"/Users/zirosas/Sites/Practice/jquery-tokeninput/styles/token-input-facebook.css",
+		"/Users/zirosas/Sites/Practice/stylesheet/portfolio.css",
+		"/Users/zirosas/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/zirosas/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/zirosas/Sites/Practice/jquery-tokeninput/examples/php-example.php",
+		"/Users/zirosas/Sites/Practice/index2.html",
+		"/tmp/subl stdin B3qv5W.txt",
+		"/tmp/subl stdin R2TIBo.txt",
+		"/Users/zirosas/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/zirosas/Sites/Gohan/app/views/wines/show.html.erb",
+		"/Users/zirosas/Sites/Gohan/app/views/wines/index.html.erb",
+		"/Users/zirosas/Sites/Gohan/db/migrate/20130508013531_remove_hash_to_wines.rb",
+		"/Users/zirosas/Sites/Gohan/db/migrate/20130508011146_add_hash_to_wines.rb",
+		"/Users/zirosas/Sites/Gohan/db/migrate/20130507052619_create_hashtags.rb",
+		"/Users/zirosas/Desktop/open.php",
+		"/Users/zirosas/Sites/Gohan/app/views/hashtags/index.html.erb",
+		"/Users/zirosas/Sites/Gohan/app/assets/javascripts/application.js",
+		"/Users/zirosas/Sites/Gohan/db/migrate/20130507051232_add_hash_to_wines.rb",
+		"/Users/zirosas/Sites/Gohan/db/migrate/20130507052348_remove_hash_to_wines.rb",
+		"/Users/zirosas/Desktop/header.php",
+		"/Users/zirosas/Sites/Gohan/app/assets/stylesheets/jquery-ui-1.10.3.custom.min.css",
+		"/Users/zirosas/Sites/jqueryui/css/smoothness/jquery-ui-1.10.3.custom.css",
+		"/Users/zirosas/Sites/jqueryui/js/jquery-1.9.1.js",
+		"/Users/zirosas/Sites/Gohan/db/migrate/20130505025703_add_date_to_wines.rb",
+		"/Users/zirosas/Desktop/toyotsu.css",
+		"/Users/zirosas/Sites/Gohan/app/views/wines/edit.html.erb",
+		"/Users/zirosas/Sites/Gohan/db/migrate/20130410190719_create_wines.rb",
+		"/Users/zirosas/Sites/Gohan/config/environment.rb",
+		"/Users/zirosas/Sites/Gohan/config/environments/development.rb",
+		"/Users/zirosas/Sites/Gohan/config/environments/production.rb",
+		"/Users/zirosas/Sites/Gohan/app/assets/stylesheets/pages.css.scss",
+		"/Users/zirosas/Sites/Gohan/app/controllers/application_controller.rb",
+		"/Users/zirosas/Sites/Gohan/lib/tasks/heroku_deploy.rake",
+		"/Users/zirosas/Sites/Gohan/app/views/devise/sessions/new.html.erb",
+		"/Users/zirosas/Sites/Gohan/app/views/pages/index.html.erb",
+		"/Users/zirosas/Sites/Gohan/app/views/pages/help.html.erb",
+		"/Users/zirosas/Sites/Gohan/app/controllers/users/omniauth_callbacks_controller.rb",
+		"/Users/zirosas/Sites/Gohan/app/models/user.rb",
+		"/Users/zirosas/Sites/Gohan/config/initializers/devise.rb",
+		"/Users/zirosas/Sites/Practice/index14.html",
+		"/Users/zirosas/Sites/Practice/index15.html",
+		"/Users/zirosas/Sites/Practice/myscript14.js",
+		"/Users/zirosas/Sites/Practice/myscript15.js",
+		"/Users/zirosas/Sites/Gohan/app/assets/javascripts/RGraph.bar.js",
+		"/Users/zirosas/Sites/portfolio/js/sketch.js",
+		"/Users/zirosas/Sites/portfolio/css/portfolio.css",
+		"/Users/zirosas/Sites/portfolio/index.html",
+		"/Users/zirosas/Sites/portfolio/js/sketch3.js",
+		"/Users/zirosas/Sites/Practice/index.php",
+		"/Users/zirosas/Sites/portfolio/README.txt",
+		"/Users/zirosas/Sites/Practice/myscript13.js",
+		"/Users/zirosas/Sites/Practice/index13.html",
+		"/Users/zirosas/Desktop/me.svg",
+		"/Users/zirosas/Sites/Practice/index12.html",
+		"/Users/zirosas/Sites/Practice/myscript7.js",
+		"/Users/zirosas/Sites/Practice/myscript9.js",
+		"/Users/zirosas/Sites/Practice/myscript.js",
+		"/Users/zirosas/Sites/Practice/index9.html",
+		"/Users/zirosas/Sites/Practice/index7.html",
+		"/Users/zirosas/Sites/Practice/index8.html",
+		"/Users/zirosas/Sites/Gohan/app/assets/javascripts/wines.js.coffee",
+		"/Users/zirosas/Sites/Gohan/app/assets/javascripts/pages.js.coffee",
+		"/Users/zirosas/Sites/Gohan/app/views/wines/_old_form.html.erb",
+		"/Users/zirosas/Sites/welcome/css/style.css",
+		"/Users/zirosas/Sites/welcome/js/typo.js",
+		"/Users/zirosas/Sites/welcome/index.html",
+		"/Users/zirosas/Sites/welcome/README.txt",
+		"/Users/zirosas/Sites/welcome/LICENSE.txt",
+		"/Users/zirosas/Sites/Practice/myscript8.js",
+		"/Users/zirosas/Sites/Practice/tunneler.html",
+		"/Users/zirosas/Sites/Practice/index4.html",
+		"/Users/zirosas/Sites/Practice/tunneler_files/css",
+		"/Users/zirosas/Sites/gmaps/index8.html",
+		"/Users/zirosas/Sites/gmaps/myscript.js",
+		"/Users/zirosas/Sites/gmaps/index.html",
+		"/Users/zirosas/Sites/gmaps/index7.html",
+		"/Users/zirosas/Sites/Node/app.js",
+		"/Users/zirosas/Sites/app.js",
+		"/Users/zirosas/Sites/tamk/wp-content/themes/tamk/stylesheet/toyotsu.css",
+		"/Users/zirosas/Sites/tamk/wp-content/themes/tamk/header.php",
+		"/Users/zirosas/Sites/tamk/wp-config.php",
+		"/Users/zirosas/Sites/Practice/index56.html",
+		"/Users/zirosas/Sites/Practice/myscript5.js",
+		"/Users/zirosas/Sites/Practice/myscript3.js",
+		"/Users/zirosas/Sites/Gohan/Gemfile",
+		"/Users/zirosas/Sites/Gohan/.gitignore",
+		"/Users/zirosas/Sites/Gohan/Gemfile.lock",
+		"/Users/zirosas/Sites/Practice/index3.html",
+		"/Users/zirosas/Sites/Practice/myscript2.js",
+		"/Users/zirosas/Desktop/AB-UP/IMS/社外/carinspection/wp-admin/admin-header.php",
+		"/Users/zirosas/Desktop/AB-UP/IMS/社外/carinspection/index.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"json",
+			"type",
+			"as",
+			"mentionsInput",
+			"autohash",
+			"arr",
+			"smoothness",
+			"corpo",
+			"baseFontFamily",
+			"illust",
+			"15",
+			"webkit-keyframes",
+			"-webkit-keyframes",
+			"linemove",
+			"autocomplete",
+			"logo",
+			"corporate",
+			"sql",
+			"option",
+			"www.blue-t",
+			"encrypted_password",
+			"footer",
+			"ylabels",
+			"cvs",
+			"bar7",
+			"note",
+			"insert_token",
+			"id",
+			"new",
+			"populate_dropdown",
+			"30",
+			"avatar",
+			"users",
+			"avatar",
+			"users",
+			"directionsPanel",
+			"                  <%",
+			"png",
+			"img",
+			"error",
+			"assets",
+			"img",
+			"examples",
+			"table",
+			"getInsResult",
+			"4",
+			"RADAR",
+			"login-register-password",
+			"nicFinance",
+			"addValueAxis",
+			"ValueAxis",
+			"AmCharts.Class",
+			"ERROR",
+			"Lost your password",
+			"ERROR",
+			"ValueAxis",
+			"addValueAxis",
+			"#FF6600",
+			"200",
+			"AmRadarChart",
+			"AmCharts",
+			"chart",
+			"www",
+			"a href",
+			"amcharts.com",
+			"xtra"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config/database.yml",
+					"settings":
+					{
+						"buffer_size": 1458,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								376,
+								376
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"confdb",
+				"config/database.yml"
+			],
+			[
+				"wine",
+				"app/models/wine.rb"
+			],
+			[
+				"win",
+				"app/controllers/wines_controller.rb"
+			],
+			[
+				"wi",
+				"app/controllers/wines_controller.rb"
+			],
+			[
+				"viapplic",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"_for",
+				"app/views/wines/_form.html.erb"
+			],
+			[
+				"new",
+				"app/views/wines/new.html.erb"
+			],
+			[
+				"modelwi",
+				"app/models/wine.rb"
+			],
+			[
+				"apphe",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"app",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"mentionin",
+				"app/assets/javascripts/jquery.mentionsInput.js"
+			],
+			[
+				"dajson",
+				"public/data.json"
+			],
+			[
+				"wineco",
+				"app/controllers/wines_controller.rb"
+			],
+			[
+				"appliht",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"men.css",
+				"app/assets/stylesheets/jquery.mentionsInput.css"
+			],
+			[
+				"_form",
+				"app/views/wines/_form.html.erb"
+			],
+			[
+				"new.ht",
+				"app/views/wines/new.html.erb"
+			],
+			[
+				"asset.coffee",
+				"app/assets/javascripts/bootstrap.js.coffee"
+			],
+			[
+				"css",
+				"stylesheet/portfolio.css"
+			],
+			[
+				"cs",
+				"jquery-tokeninput/styles/token-input-facebook.css"
+			],
+			[
+				"my",
+				"myscript12.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true
+}
