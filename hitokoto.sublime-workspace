@@ -267,14 +267,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "config/database.yml",
-			"settings":
-			{
-				"buffer_size": 1458,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -360,8 +352,11 @@
 	},
 	"file_history":
 	[
-		"/Users/zirosas/Sites/Gohan/config/database.yml",
 		"/Users/zirosas/Sites/hitokoto/Gemfile",
+		"/Users/zirosas/Sites/hitokoto/config/database.yml",
+		"/Users/zirosas/Sites/hitokoto/config/routes.rb",
+		"/Users/zirosas/Sites/Gohan/config/database.yml",
+		"/Users/zirosas/Sites/hitokoto/public/index.html",
 		"/Users/zirosas/Sites/hitokoto/Gemfile.lock",
 		"/Users/zirosas/Sites/Gohan/app/controllers/wines_controller.rb",
 		"/Users/zirosas/Sites/Gohan/app/models/wine.rb",
@@ -484,10 +479,7 @@
 		"/Users/zirosas/Sites/Gohan/Gemfile",
 		"/Users/zirosas/Sites/Gohan/.gitignore",
 		"/Users/zirosas/Sites/Gohan/Gemfile.lock",
-		"/Users/zirosas/Sites/Practice/index3.html",
-		"/Users/zirosas/Sites/Practice/myscript2.js",
-		"/Users/zirosas/Desktop/AB-UP/IMS/社外/carinspection/wp-admin/admin-header.php",
-		"/Users/zirosas/Desktop/AB-UP/IMS/社外/carinspection/index.php"
+		"/Users/zirosas/Sites/Practice/index3.html"
 	],
 	"find":
 	{
@@ -588,37 +580,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "config/database.yml",
-					"settings":
-					{
-						"buffer_size": 1458,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								376,
-								376
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/YAML/YAML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
