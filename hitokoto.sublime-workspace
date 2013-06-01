@@ -353,8 +353,9 @@
 	"file_history":
 	[
 		"/Users/zirosas/Sites/hitokoto/Gemfile",
-		"/Users/zirosas/Sites/hitokoto/config/database.yml",
+		"/Users/zirosas/Sites/hitokoto/app/controllers/words_controller.rb",
 		"/Users/zirosas/Sites/hitokoto/config/routes.rb",
+		"/Users/zirosas/Sites/hitokoto/config/database.yml",
 		"/Users/zirosas/Sites/Gohan/config/database.yml",
 		"/Users/zirosas/Sites/hitokoto/public/index.html",
 		"/Users/zirosas/Sites/hitokoto/Gemfile.lock",
@@ -478,8 +479,7 @@
 		"/Users/zirosas/Sites/Practice/myscript3.js",
 		"/Users/zirosas/Sites/Gohan/Gemfile",
 		"/Users/zirosas/Sites/Gohan/.gitignore",
-		"/Users/zirosas/Sites/Gohan/Gemfile.lock",
-		"/Users/zirosas/Sites/Practice/index3.html"
+		"/Users/zirosas/Sites/Gohan/Gemfile.lock"
 	],
 	"find":
 	{
