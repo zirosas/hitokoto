@@ -46,10 +46,10 @@ test:
   password:
 
 production:
-  host: ec2-54-227-255-156.compute-1.amazonaws.com
+  host: 
   adapter: postgresql
   encoding: utf8
-  database: d5gvepclim33rn
-  pool: 5432
-  username: dignujwrmaeeua
-  password: WwtKEQrtO9mtcUAAH3_JqSzy2P
+  database: 
+  pool: 
+  username: 
+  password: 
