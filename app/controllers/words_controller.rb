@@ -3,7 +3,7 @@ class WordsController < ApplicationController
   # GET /words
   # GET /words.json
   def index
-    @words = Word.all
+    @words = Word.find(:all, :order => 'ID DESC')
 
     respond_to do |format|
       format.html # index.html.erb
