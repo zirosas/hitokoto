@@ -42,7 +42,7 @@ class WordsController < ApplicationController
   # POST /words.json
   def create
     @word = Word.new(params[:word])
-
+    @word.user_id = current_user.id
     respond_to do |format|
       if @word.save
         format.html { redirect_to @word, notice: 'Word was successfully created.' }
