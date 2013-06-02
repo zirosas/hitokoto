@@ -39,12 +39,21 @@
     <div class="container-fluid">
       <div class="row-fluid">
         <div class="span3">
-          <div class="well sidebar-nav">
+          <div class="sidebar-nav">
+            <img src="http://zirosas.files.wordpress.com/2010/10/logo.png" border="0" />
             <ul class="nav nav-list">
-              <li class="nav-header">Sidebar</li>
-              <li><%= link_to "Link1", "/path1"  %></li>
-              <li><%= link_to "Link2", "/path2"  %></li>
-              <li><%= link_to "Link3", "/path3"  %></li>
+              <li class="nav-header"><%= link_to "Just a word", words_path %></li>
+              <li><%= link_to "Add", new_word_path  %></li>
+
+            <% if user_signed_in? %>
+              <li>
+              <%= link_to('Logout', destroy_user_session_path, :method => :delete) %>        
+              </li>
+            <% else %>
+              <li>
+              <%= link_to('Sign in', new_user_session_path)  %>  
+              </li>
+            <% end %>
             </ul>
           </div><!--/.well -->
         </div><!--/span-->
@@ -55,7 +64,7 @@
       </div><!--/row-->
 
       <footer>
-        <p>&copy; Company 2013</p>
+        <p class="muted pagination-centered">&copy; <a href="zirosas.github.io/portfolio" target="_blank" class="muted">zirosas</a></p>
       </footer>
 
     </div> <!-- /container -->
