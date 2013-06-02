@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"bo",
+				"body"
+			],
+			[
 				"h",
 				"html	html"
 			],
@@ -352,10 +356,13 @@
 	},
 	"file_history":
 	[
+		"/Users/zirosas/Desktop/Ruby on Rails Tutorial  Learn Rails by Example   Ruby on Rails 3 Tutorial book and screencasts   by Michael Hartl.html",
+		"/Users/zirosas/Sites/hitokoto/.gitignore",
+		"/Users/zirosas/Sites/hitokoto/README.rdoc",
+		"/Users/zirosas/Sites/hitokoto/config/database.yml",
 		"/Users/zirosas/Sites/hitokoto/Gemfile",
 		"/Users/zirosas/Sites/hitokoto/app/controllers/words_controller.rb",
 		"/Users/zirosas/Sites/hitokoto/config/routes.rb",
-		"/Users/zirosas/Sites/hitokoto/config/database.yml",
 		"/Users/zirosas/Sites/Gohan/config/database.yml",
 		"/Users/zirosas/Sites/hitokoto/public/index.html",
 		"/Users/zirosas/Sites/hitokoto/Gemfile.lock",
@@ -476,10 +483,7 @@
 		"/Users/zirosas/Sites/tamk/wp-config.php",
 		"/Users/zirosas/Sites/Practice/index56.html",
 		"/Users/zirosas/Sites/Practice/myscript5.js",
-		"/Users/zirosas/Sites/Practice/myscript3.js",
-		"/Users/zirosas/Sites/Gohan/Gemfile",
-		"/Users/zirosas/Sites/Gohan/.gitignore",
-		"/Users/zirosas/Sites/Gohan/Gemfile.lock"
+		"/Users/zirosas/Sites/Practice/myscript3.js"
 	],
 	"find":
 	{

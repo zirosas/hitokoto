@@ -1,5 +1,5 @@
 class WordsController < ApplicationController
-  before_filter :authenticate_user!
+  before_filter :authenticate_user!, :except => [:index, :show]
   # GET /words
   # GET /words.json
   def index
