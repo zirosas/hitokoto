@@ -1,7 +1,7 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
 
 one:
-  detail: MyText
+  detail: MyText2
 
 two:
-  detail: MyText
+  detail: MyTextUnitTest2
